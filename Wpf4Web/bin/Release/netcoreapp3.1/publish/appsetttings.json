@@ -1,0 +1,8 @@
+{
+  // 正确的本地地址
+  //"StartUrl": "file:///E:/LinkSunCommon/GettingStarted/VuejsStarted/vue%E6%A8%A1%E6%9D%BF.html"
+  // 错误的网络地址
+  //"StartUrl": "www.baidu.com"
+  // 正确的网络地址
+  "StartUrl": "file:///E:/DeepseaAI/%E9%A1%B9%E7%9B%AE%E7%9B%AE%E5%BD%95/S2WWCS/S2WWCS/wwwroot/index.html#/"
+}
